@@ -1,0 +1,1 @@
+import defaultExport, * as Twitter from "twitter-v2";

@@ -1,0 +1,20 @@
+{
+    "name": "jaybot",
+    "version": "1.0.0",
+    "main": "src/index.ts",
+    "author": {
+        "name": "Danny Hyders",
+        "email": "git@bean.codes",
+        "url": "https://bean.codes"
+    },
+    "scripts": {
+        "installDeps": "npm install",
+        "start": "ts-node ./src/index.ts"
+    },
+    "dependencies": {
+        "twitter-v2": "^1.0.0"
+    },
+    "devDependencies": {
+        "ts-node": "^9.1.1"
+    }
+}
